@@ -1,1 +1,11 @@
-
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+button {
+    margin-top: 10px;
+    cursor: pointer;
+}
+section {
+    margin-bottom: 30px;
+}
